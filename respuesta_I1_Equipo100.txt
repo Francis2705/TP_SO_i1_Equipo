@@ -1,0 +1,17 @@
+a - ¿ALFA ve los datos que cargaron los demás en su repositorio?
+b - ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+c - ¿Si BETA agrega un archivo los demás integrantes lo ven?
+d - ¿De qué forma se comunicaron ustedes?
+e - ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+ALFA:
+a - Si, yo como ALFA puedo ver los datos que cargaron los demas en mi repositorio.
+    Tambien puedo ver quien hizo el commit y cuando lo hizo.
+b - Si, yo como ALFA añadí un archivo .txt y todos los demas lo pudieron ver
+
+BETA:
+c - 
+d - 
+
+GAMMA:
+e - 
