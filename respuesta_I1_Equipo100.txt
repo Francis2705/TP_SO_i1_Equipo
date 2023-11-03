@@ -10,8 +10,9 @@ a - Si, yo como ALFA puedo ver los datos que cargaron los demas en mi repositori
 b - Si, yo como ALFA añadí un archivo .txt y todos los demas lo pudieron ver
 
 BETA:
-c - 
-d - 
+c - Sí, si yo como BETA agrego un archivo al repositorio, ALFA y GAMMA deberían poder ver ese archivo en el repositorio después de que BETA haya realizado un commit y push de los cambios.
+d - Nos comunicamos vía Whatsapp.
 
 GAMMA:
-e - 
+e - La mejor forma de comunicarse en GitHub es a través de los commits, específicando que cambio se ha hecho. También mediante la solapa
+PROYECTS, de GitHub.
